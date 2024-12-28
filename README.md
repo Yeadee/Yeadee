@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yeadee&count_private=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div>
-###
+<hr/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -20,8 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
-
-###
+<hr/>
 
 <h3 align="center">Find Me</h3>
 
