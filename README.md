@@ -1,7 +1,6 @@
 <div align="center">
-[![Yeadee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeadee&count_private=true&show_icons=true&include_all_commits=true)]()
+<img src="https://github-readme-stats.vercel.app/api?username=Yeadee&count_private=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div>
-
 ###
 
 <div align="center">
